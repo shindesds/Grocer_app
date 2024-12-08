@@ -1,5 +1,8 @@
 Grocery App
-Description
+
+
+Description:
+
 The Grocery App is a simple yet functional web application built using Flask and an SQL database. This app allows users to manage their grocery items by adding or removing products from their cart. It automatically calculates the total price of the selected items and provides a detailed order summary, including the item names and quantities.
 
 Key Features:
